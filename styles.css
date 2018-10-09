@@ -1,0 +1,29 @@
+h1{
+    color: rgb(141, 8, 8);
+    font-family: 'Lucida Sans';
+    font-size: 100px;
+}
+
+h1.display-4{
+    padding: 40px;
+}
+
+h2{
+    color: rgb(123, 122, 221);
+    font-size: 40px;
+}
+
+.navbar-light .navbar-brand{
+    color: red;
+}
+
+.jumbotron{
+    background-image: url(Assembly-Hall.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 9x00px;
+}
+
+.logo{
+    height: 150px;
+}
